@@ -4,3 +4,4 @@ function Scooters(year,color,model){
   this.color=color;
   this.model=model;
 }
+let Scuber =new Scooters(1999,"pink","toyota")
