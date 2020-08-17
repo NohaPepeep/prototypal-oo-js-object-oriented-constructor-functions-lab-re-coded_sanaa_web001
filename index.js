@@ -10,9 +10,9 @@ function Driver(name,age,experience){
   this.age=age;
   this.experience=experience;
 }
-function Driver(name,age,experience){
+function Driver(address,city){
   
-  this.name=name;
-  this.age=age;
-  this.experience=experience;
+  this.address =address;
+  this.city=city;
+  
 }
